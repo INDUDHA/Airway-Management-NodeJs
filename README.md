@@ -4,4 +4,4 @@
 
 Steps To Run Api
 ->npm start
-->Base Url -> http://localhost:8000/ (800->portno)
+->Base Url -> http://localhost:8000/ (8000->portno)
